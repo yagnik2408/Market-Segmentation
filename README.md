@@ -1,2 +1,6 @@
-# Market-Segmentation
-Implemented customer segmentation using clustering algorithms (K-Means, DBSCAN, GMM) to identify distinct user groups. Included EDA, feature scaling, PCA, and model evaluation. Delivered insights through an interactive Streamlit dashboard for data-driven marketing strategies.
+# Welcome to GitHub Desktop!
+
+This is your README. READMEs are where you can communicate what your project is and how to use it.
+
+Write your name on line 6, save it, and then head back to GitHub Desktop.
+market segmentation
